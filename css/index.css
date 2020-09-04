@@ -219,3 +219,51 @@ nav {
     justify-content:center;
     margin-bottom:2%;
 }
+
+/* about page */
+
+button {
+    padding:3%;
+    width:30%;
+    border: 2px solid black;
+    background:white;
+    border-radius: 10px;
+    margin-top:5%;
+    margin-bottom:7%;
+}
+
+.about-image{
+    display:flex;
+    justify-content:center;
+}
+
+.top-section {
+    display:flex;
+    margin-bottom:5%;
+    margin-top:6%;
+    border-bottom:dashed;
+    border-color:grey;
+}
+
+.bottom-section {
+    display:flex;
+    margin-bottom:10%;
+    border-bottom:dashed;
+    border-color:grey;
+}
+
+h2 {
+    margin-top:3%;
+}
+
+.work-together {
+    margin-bottom:5%;
+}
+
+.about-section {
+    border-bottom:dashed;
+    border-color:grey;
+}
+.about-paragraph {
+    margin-bottom:3%;
+}
